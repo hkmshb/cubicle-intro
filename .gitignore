@@ -1,4 +1,8 @@
 cubicle.*
+!cubicle.less
 
 
+node_modules/
 [_.]ignore/
+obj/
+bin/
