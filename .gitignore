@@ -1,5 +1,6 @@
-cubicle.*
 !cubicle.less
+cubicle.*
+*.py[co]
 
 
 node_modules/
